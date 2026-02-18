@@ -158,7 +158,8 @@ LOGICAL NOT !
     }else if (score >=0 && score <=49) {
         console.log("Grade is 'F'..");
         
-        
+    console.log("hello");
+     
     }
 }
 
